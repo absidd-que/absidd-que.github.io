@@ -11,9 +11,6 @@ author_profile: true
 
 2. **Parents in the Classroom: Strengthening Government Capacity to Deliver Early Childhood Education** (with [Bet Caeyers](https://www.cmi.no/staff/bet-caeyers), [Lina Cardona-Sosa](https://sites.google.com/site/linacardonasosa/home), [Sarah Cattan](https://sites.google.com/site/sjcattan/home), and [Sonya Krutikova](https://sites.google.com/view/sonyakrutikova/home)). [[IFS Working Paper]](https://ifs.org.uk/publications/parents-classroom-strengthening-government-capacity-deliver-early-childhood-education)
 
-### In Progress
-
-- **Infrastructure Development and Ethnic Conflict in Pakistan** (with Shiqi Guo, Lilac Zihui Zhao, and Zhiyang Zhu).
 
 ## Publications
 
