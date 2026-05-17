@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/rhul-logo.png" alt="Royal Holloway, University of London" style="float: right; width: 180px; margin-left: 20px;">
 
 I am an Associate Professor of Economics at the [Department of Economics](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/economics/), [Royal Holloway, University of London](https://www.royalholloway.ac.uk/). Previously, I was an Assistant Professor of Economics and Policy at the [Department of Political Economy](https://www.kcl.ac.uk/political-economy), [King's College London](https://www.kcl.ac.uk/), and a Postdoctoral Researcher at the [Professorship of Economics](https://eco.cs.tum.de/), [Technical University of Munich](https://www.tum.de/).
 
@@ -23,3 +22,6 @@ I am also:
 My research is in development economics, with a focus on discrimination, gender, and human capital investments in low-income countries.
 
 **Contact.** abu.siddique [at] rhul.ac.uk
+
+<img src="/images/rhul-logo.png" alt="Royal Holloway, University of London" style="float: right; width: 180px; margin-left: 20px;">
+
