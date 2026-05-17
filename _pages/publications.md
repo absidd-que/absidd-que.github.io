@@ -25,11 +25,11 @@ author_profile: true
 3. [**Behavioral Consequences of Religious Schooling.**](https://doi.org/10.1016/j.jdeveco.2023.103237) <br>
    *Journal of Development Economics*, 167: 103237, 2024.
 
-4. **Market Competition and Discrimination** (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/home)).<br>
-   *European Economic Review*, 152: 104361, 2023. [[DOI]](https://doi.org/10.1016/j.euroecorev.2022.104361) 
+4. [**Market Competition and Discrimination**](https://doi.org/10.1016/j.euroecorev.2022.104361)  (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/home)).<br>
+   *European Economic Review*, 152: 104361, 2023.
 
-5. **Determinants and Dynamics of Food Insecurity During COVID-19 in Rural Bangladesh** (with Firoz Ahmed, [Asad Islam](http://users.monash.edu.au/~asaduli/), [Debayan Pakrashi](http://www.debayanpakrashi.com/), and Tabassum Rahman).<br>
-   *Food Policy*, 101: 102066, 2021. [[DOI]](https://doi.org/10.1016/j.foodpol.2021.102066) 
+5. [**Determinants and Dynamics of Food Insecurity During COVID-19 in Rural Bangladesh**](https://doi.org/10.1016/j.foodpol.2021.102066)  (with Firoz Ahmed, [Asad Islam](http://users.monash.edu.au/~asaduli/), [Debayan Pakrashi](http://www.debayanpakrashi.com/), and Tabassum Rahman).<br>
+   *Food Policy*, 101: 102066, 2021. 
 
-6. **Competitive Preferences and Ethnicity: Experimental Evidence from Bangladesh** (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm)).<br>
-   *The Economic Journal*, 130(627): 793–821, 2020. [[DOI]](https://doi.org/10.1093/ej/uez063) 
+6. [**Competitive Preferences and Ethnicity: Experimental Evidence from Bangladesh**](https://doi.org/10.1093/ej/uez063)  (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm)).<br>
+   *The Economic Journal*, 130(627): 793–821, 2020.
