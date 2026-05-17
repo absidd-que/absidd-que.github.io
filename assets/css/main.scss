@@ -65,3 +65,8 @@
     text-align: center;
   }
 }
+
+/* Hide bottom footer */
+.page__footer {
+  display: none !important;
+}
