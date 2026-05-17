@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**Download full CV (PDF)**](/files/cv.pdf)
+[**Download full CV (PDF)**](https://drive.google.com/file/d/1ZVnQz22Z-WueaQgPxYW2qAOrMnu9mYqH/view?usp=sharing)
 
 ## Current Positions and Affiliations
 
