@@ -17,7 +17,7 @@ author_profile: true
 ## Publications
 
 1. **Leveraging Virtual Contact and Social Networks to Foster Interethnic Harmony** (with [Michael Vlassopoulos](http://www.personal.soton.ac.uk/mv1u06/index.htm) and [Yves Zenou](https://sites.google.com/site/yvesbzenou/home)).<br>
-   *The Quarterly Journal of Economics*, 2026. [[DOI]](https://doi.org/10.1093/qje/qjag001)
+   *The Quarterly Journal of Economics*, 141(2): 1449–1519, 2026. [[DOI]](https://doi.org/10.1093/qje/qjag001)
 
 2. **Non-WEIRD Preferences** (with [Smriti Sharma](https://sites.google.com/site/smritiecon/)).<br>
    In *Handbook of Experimental Development Economics* (eds. Utteeyo Dasgupta and Pushkar Maitra), 2025. [[DOI]](https://doi.org/10.4337/9781800885370.00008)
