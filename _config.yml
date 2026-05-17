@@ -7,9 +7,9 @@ title                    : "Abu Siddique"
 title_separator          : "|"
 name                     : &name "Abu Siddique"
 description              : &description "Associate Professor of Economics, Department of Economics, Royal Holloway University of London. Development, health, gender, and political economy."
-url                      : "https://abubsiddque.github.io"
+url                      : "https://abubsiddique.github.io"
 baseurl                  : ""
-repository               : "abubsiddque/abubsiddque.github.io"
+repository               : "abubsiddque/abubsiddique.github.io"
 google_scholar_stats_use_cdn: true
 masthead_title           : " "
 
