@@ -1,7 +1,18 @@
+/* Desktop: square photo, reasonable size */
 .author__avatar img,
 .sidebar .author__avatar img,
 .author__avatar > a > img {
   border-radius: 0 !important;
   max-width: 200px !important;
   height: auto !important;
+}
+
+/* Mobile: let the photo grow larger */
+@media (max-width: 768px) {
+  .author__avatar img,
+  .sidebar .author__avatar img,
+  .author__avatar > a > img {
+    max-width: 280px !important;
+    width: 80% !important;
+  }
 }
